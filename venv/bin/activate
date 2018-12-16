@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/zanark/CODING/GDG/HackFest/GDG-HackFest/venv"
+VIRTUAL_ENV="/home/zanark/CODING/GDG/HackFest/test1/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
