@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Export PDF</title>
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <!-- jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- pdfobject -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.js"></script>
+
+    <style>
+        * {
+            background-color: #404040;
+            color: #fff;
+        }
+        .footer {
+            width: 100%;
+            bottom: 00%;
+            margin: 1em;
+            position: fixed;
+        }
+        .container-fl {
+            margin: 1em;
+        }
+        #pdf-viewer {
+            height: 90%;
+            width: 80%;
+            position: fixed;
+        }
+        #select-file {
+            margin: 0.5em;
+            margin-left: 0em;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <div class="container-fl">
+            <div class="row">
+
+                <!-- pdf-stack -->
+                <div id="stack" class="col-sm-2">
+                    <label for="pdf-select">Select your file</label>
+                    <input type="file" name="pdf-select" id="selected-pdf">
+                    <button id="select-file" class="btn btn-primary btn-lg">Select File</button>
+                </div>
+
+                <!-- pdf-viewer -->
+                <div class="col-sm-10">
+                    <div id="pdf-viewer">
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <!-- footer -->
+            <div class="row footer">
+                <div class="col-sm-11"></div>
+                <div class="col-sm-1"><button class="btn btn-lg btn-success">Feed</button></div>
+            </div>
+        </div>
+    </main>
+    <script>
+        var pdf = null;
+        $("#select-file").click(function() {
+            pdf = String(pdf = $("#selected-pdf").val()).replace("C:\\fakepath\\","../feedPDF/pdf/");
+            if (pdf.length>4 && pdf.substr(pdf.length-4, pdf.length)==".pdf") {
+                PDFObject.embed(pdf, "#pdf-viewer");
+            }
+            else {
+                alert("Please select a Pdf of bill");
+            }
+        });
+    </script>
+<<<<<<< HEAD:venv--Py3.6/feedPDF/templates/index.html
+    <script>PDFObject.embed("", "#pdf-viewer");</script>
+=======
+    {% load staticfiles %}
+    <script>PDFObject.embed("{% static 'pdf/example.pdf' %}", "#pdf-viewer");</script>
+>>>>>>> upstream/v2:venv--Py3.6/GDG-Project/templates/index.html
+</body>
+</html>
