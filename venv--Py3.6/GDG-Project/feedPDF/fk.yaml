@@ -1,0 +1,58 @@
+sold_by:
+  - id: 1
+
+item:
+  - id: 3
+item_description:
+  - id: 10
+total_qty:
+  - id: 4
+
+order_details:
+  - id: 1
+
+order_details:
+  - id: 6
+
+cust_details:
+  - id: 7
+  - gstin: 1
+  - pan: 2
+
+shipping_details:
+  - id: 8
+
+billing_details:
+  - id: 14
+
+gross_details:
+  - id: 15
+
+gross_shipping:
+  - id: 21
+
+shipping charge:
+  - id: 16
+
+discount_item:
+  - id: 18
+
+discount_shipping:
+  - id: 19
+
+taxable:
+  - id: 20
+  - taxable_value: 3
+
+igst_item:
+  - id: 23
+igst_shipping:
+  - id: 24
+
+taxable_item:
+  - id: 26
+taxable_shipping:
+  - id: 27
+
+total:
+  - id: 28

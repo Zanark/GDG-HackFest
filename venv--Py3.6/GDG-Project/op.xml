@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+<page id="1" bbox="0.000,0.000,595.000,842.000" rotate="0">
+<textbox id="0" bbox="37.503,798.315,90.571,811.669">
+<textline bbox="37.503,798.315,90.571,811.669">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="37.503,798.315,43.191,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">T</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="43.504,798.315,49.125,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">a</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="48.906,798.315,54.283,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">x</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="54.307,798.315,57.206,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="57.308,798.315,60.409,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">I</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="59.709,798.315,65.641,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">n</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="65.710,798.315,71.147,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">v</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="71.112,798.315,76.842,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="77.114,798.315,79.970,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="79.514,798.315,84.455,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">c</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="84.916,798.315,90.571,811.669" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.354">e</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="37.503,744.549,119.437,789.214">
+<textline bbox="37.503,779.676,64.000,789.214">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="37.503,779.676,41.788,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">S</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="41.704,779.676,45.797,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="45.905,779.676,47.945,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">l</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="47.705,779.676,51.967,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">d</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="51.907,779.676,53.977,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="53.707,779.676,58.244,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">B</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="57.908,779.676,61.791,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">y</text>
+<text font="QYAAAA+DejaVuSans" bbox="62.109,779.676,64.000,789.167" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="37.503,771.556,69.023,779.150">
+<text font="QYAAAA+DejaVuSans" bbox="37.503,771.556,40.527,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="40.503,771.556,43.523,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="43.504,771.556,46.419,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="46.505,771.556,49.434,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="49.506,771.556,51.988,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="51.907,771.556,55.469,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="55.508,771.556,58.427,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="58.508,771.556,60.376,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="60.309,771.556,61.634,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="61.509,771.556,64.424,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="64.510,771.556,67.530,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="67.511,771.556,69.023,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="37.503,762.554,118.237,770.147">
+<text font="QYAAAA+DejaVuSans" bbox="37.503,762.554,40.527,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="40.503,762.554,43.523,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="43.504,762.554,46.419,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="46.505,762.554,49.434,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="49.506,762.554,51.988,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="51.907,762.554,54.927,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="54.907,762.554,57.827,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="57.908,762.554,59.776,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="59.709,762.554,61.034,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="60.909,762.554,63.823,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="63.910,762.554,66.930,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="66.911,762.554,68.423,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="68.711,762.554,70.224,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="70.512,762.554,72.024,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="72.312,762.554,75.894,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">H</text>
+<text font="QYAAAA+DejaVuSans" bbox="75.913,762.554,77.632,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="77.714,762.554,80.743,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="80.715,762.554,83.744,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="83.715,762.554,85.228,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="85.516,762.554,89.208,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">G</text>
+<text font="QYAAAA+DejaVuSans" bbox="89.117,762.554,91.076,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="90.917,762.554,93.832,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="93.918,762.554,96.938,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="96.919,762.554,99.939,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="99.920,762.554,102.945,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="102.921,762.554,104.433,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="104.721,762.554,107.463,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">F</text>
+<text font="QYAAAA+DejaVuSans" bbox="107.722,762.554,109.047,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="108.922,762.554,111.837,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="111.923,762.554,114.838,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="114.924,762.554,116.883,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="116.725,762.554,118.237,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="37.503,753.551,119.437,761.145">
+<text font="QYAAAA+DejaVuSans" bbox="37.503,753.551,42.213,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">W</text>
+<text font="QYAAAA+DejaVuSans" bbox="42.304,753.551,45.233,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="45.305,753.551,47.787,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="47.705,753.551,49.573,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="49.506,753.551,51.018,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="51.306,753.551,52.713,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">J</text>
+<text font="QYAAAA+DejaVuSans" bbox="52.507,753.551,55.325,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">y</text>
+<text font="QYAAAA+DejaVuSans" bbox="55.508,753.551,58.422,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="58.508,753.551,60.376,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="60.309,753.551,61.634,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="61.509,753.551,63.022,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="63.310,753.551,66.872,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="66.911,753.551,69.830,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="69.912,753.551,72.936,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="72.912,753.551,75.832,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="75.913,753.551,77.872,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="77.714,753.551,79.226,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="79.514,753.551,82.539,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="82.515,753.551,85.535,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="85.516,753.551,88.435,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="88.517,753.551,91.537,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="91.518,753.551,94.542,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="94.518,753.551,97.438,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="97.519,753.551,99.478,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="99.320,753.551,102.239,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="102.321,753.551,103.833,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="104.121,753.551,105.634,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="105.922,753.551,109.590,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">D</text>
+<text font="QYAAAA+DejaVuSans" bbox="109.523,753.551,112.451,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="112.523,753.551,113.849,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="113.724,753.551,116.744,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="116.725,753.551,118.050,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="117.925,753.551,119.437,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="37.503,744.549,87.945,752.142">
+<text font="QYAAAA+DejaVuSans" bbox="37.503,744.549,41.065,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="41.104,744.549,44.114,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="44.104,744.549,48.814,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">W</text>
+<text font="QYAAAA+DejaVuSans" bbox="48.906,744.549,50.418,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="50.706,744.549,54.374,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">D</text>
+<text font="QYAAAA+DejaVuSans" bbox="54.307,744.549,57.318,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="57.308,744.549,59.963,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">L</text>
+<text font="QYAAAA+DejaVuSans" bbox="59.709,744.549,63.291,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">H</text>
+<text font="QYAAAA+DejaVuSans" bbox="63.310,744.549,64.717,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="64.510,744.549,66.022,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="66.311,744.549,68.029,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="68.111,744.549,69.623,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="69.912,744.549,72.941,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="72.912,744.549,75.942,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="75.913,744.549,78.943,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="78.914,744.549,81.944,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="81.915,744.549,84.945,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">9</text>
+<text font="QYAAAA+DejaVuSans" bbox="84.916,744.549,87.945,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">4</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="101.120,721.459,127.372,730.998">
+<textline bbox="101.120,721.459,127.372,730.998">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="101.120,721.459,105.483,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">P</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="105.321,721.459,108.256,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="108.322,721.459,112.415,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="112.523,721.459,116.785,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">d</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="116.725,721.459,120.962,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">u</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="120.926,721.459,124.455,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">c</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="124.527,721.459,127.372,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">t</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="39.903,700.453,174.545,717.147">
+<textline bbox="39.903,707.655,174.545,717.147">
+<text font="QYAAAA+DejaVuSans" bbox="39.903,707.655,43.978,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">A</text>
+<text font="QYAAAA+DejaVuSans" bbox="44.104,707.655,47.885,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="47.705,707.655,50.832,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">z</text>
+<text font="QYAAAA+DejaVuSans" bbox="50.706,707.655,54.355,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="54.307,707.655,56.198,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="56.108,707.655,60.243,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="60.309,707.655,64.084,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="63.910,707.655,67.685,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="67.511,707.655,71.286,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="71.112,707.655,72.768,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="72.312,707.655,76.087,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="75.913,707.655,79.694,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="79.514,707.655,81.405,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="81.315,707.655,85.096,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="85.516,707.655,89.291,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="89.117,707.655,92.760,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="92.718,707.655,96.379,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="96.319,707.655,99.422,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="99.320,707.655,101.210,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="101.120,707.655,104.547,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">F</text>
+<text font="QYAAAA+DejaVuSans" bbox="104.721,707.655,108.364,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="108.322,707.655,110.771,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="110.723,707.655,112.613,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="112.523,707.655,117.661,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">M</text>
+<text font="QYAAAA+DejaVuSans" bbox="117.925,707.655,121.586,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="121.526,707.655,125.301,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="125.127,707.655,127.017,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="126.927,707.655,131.063,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="131.129,707.655,134.790,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="134.730,707.655,138.511,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="138.331,707.655,140.221,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="140.131,707.655,143.918,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="143.732,707.655,147.519,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="147.333,707.655,149.224,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="149.134,707.655,153.209,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">A</text>
+<text font="QYAAAA+DejaVuSans" bbox="153.335,707.655,157.416,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">X</text>
+<text font="QYAAAA+DejaVuSans" bbox="156.936,707.655,159.913,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">_</text>
+<text font="QYAAAA+DejaVuSans" bbox="159.937,707.655,163.724,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="163.538,707.655,167.325,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="167.139,707.655,170.926,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="170.740,707.655,172.630,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="172.540,707.655,174.545,717.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">|</text>
+<text>
+</text>
+</textline>
+<textline bbox="39.903,700.453,88.103,709.945">
+<text font="QYAAAA+DejaVuSans" bbox="39.903,700.453,43.552,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="43.504,700.453,47.027,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">x</text>
+<text font="QYAAAA+DejaVuSans" bbox="47.105,700.453,50.892,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="50.706,700.453,53.683,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">_</text>
+<text font="QYAAAA+DejaVuSans" bbox="53.707,700.453,57.482,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="57.308,700.453,60.957,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="60.909,700.453,64.432,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">v</text>
+<text font="QYAAAA+DejaVuSans" bbox="64.510,700.453,68.033,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">y</text>
+<text font="QYAAAA+DejaVuSans" bbox="68.111,700.453,70.560,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="70.512,700.453,74.173,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="74.113,700.453,77.894,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="77.714,700.453,80.691,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">_</text>
+<text font="QYAAAA+DejaVuSans" bbox="80.715,700.453,84.502,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="84.316,700.453,88.103,709.945" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="39.903,674.646,85.456,684.185">
+<textline bbox="39.903,674.646,85.456,684.185">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="39.903,674.646,43.966,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">T</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="44.104,674.646,49.164,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">O</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="48.906,674.646,52.969,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">T</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="53.107,674.646,57.716,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">A</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="58.508,674.646,62.301,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">L</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="62.109,674.646,64.180,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="63.910,674.646,68.969,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">Q</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="68.711,674.646,72.774,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">T</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="72.912,674.646,77.222,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">Y</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="77.114,674.646,79.496,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">:</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="79.514,674.646,81.585,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="81.315,674.646,85.456,684.185" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">1</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="165.338,791.679,280.240,809.620">
+<textline bbox="165.338,800.081,280.240,809.620">
+<text font="QYAAAA+DejaVuSans" bbox="165.338,800.081,170.025,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">O</text>
+<text font="QYAAAA+DejaVuSans" bbox="170.140,800.081,172.588,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="172.540,800.081,176.321,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="176.141,800.081,179.802,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="179.742,800.081,182.191,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="182.143,800.081,184.033,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="183.943,800.081,185.702,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="185.744,800.081,189.525,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="189.345,800.081,191.349,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="191.145,800.081,193.036,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="192.946,800.081,198.005,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">O</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="197.747,800.081,202.687,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">D</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="202.549,800.081,206.690,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">1</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="206.750,800.081,210.891,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">1</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="210.951,800.081,215.092,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">4</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="215.152,800.081,219.293,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="219.353,800.081,223.494,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">9</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="223.554,800.081,227.696,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">5</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="227.756,800.081,231.897,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">2</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="231.957,800.081,236.098,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="236.158,800.081,240.299,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">6</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="240.359,800.081,244.500,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">5</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="244.560,800.081,248.701,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">5</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="248.761,800.081,252.903,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">9</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="252.963,800.081,257.104,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">5</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="257.164,800.081,261.305,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">8</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="261.365,800.081,265.506,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">8</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="265.566,800.081,269.707,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="269.767,800.081,273.908,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="273.968,800.081,278.110,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="278.170,800.081,280.240,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="165.338,791.679,266.502,801.171">
+<text font="QYAAAA+DejaVuSans" bbox="165.338,791.679,170.025,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">O</text>
+<text font="QYAAAA+DejaVuSans" bbox="170.140,791.679,172.588,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="172.540,791.679,176.321,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="176.141,791.679,179.802,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="179.742,791.679,182.191,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="182.143,791.679,184.033,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="183.943,791.679,188.529,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">D</text>
+<text font="QYAAAA+DejaVuSans" bbox="188.745,791.679,192.394,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="192.346,791.679,194.680,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="194.746,791.679,198.407,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="198.347,791.679,200.352,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="200.148,791.679,202.038,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="201.948,791.679,205.735,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="205.549,791.679,209.336,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">6</text>
+<text font="QYAAAA+DejaVuSans" bbox="209.150,791.679,211.299,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="211.551,791.679,215.338,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="215.152,791.679,218.939,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="218.753,791.679,220.902,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="221.154,791.679,224.941,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="224.755,791.679,228.542,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="228.356,791.679,232.143,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="231.957,791.679,235.744,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">8</text>
+<text font="QYAAAA+DejaVuSans" bbox="235.558,791.679,237.448,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="237.358,791.679,239.249,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="239.159,791.679,242.946,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="242.760,791.679,246.547,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="246.361,791.679,248.365,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="248.161,791.679,251.948,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="251.762,791.679,255.549,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">7</text>
+<text font="QYAAAA+DejaVuSans" bbox="255.363,791.679,257.254,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="257.164,791.679,260.753,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">P</text>
+<text font="QYAAAA+DejaVuSans" bbox="261.365,791.679,266.502,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">M</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="293.174,791.679,398.143,809.620">
+<textline bbox="293.174,800.081,398.143,809.620">
+<text font="QYAAAA+DejaVuSans" bbox="293.174,800.081,294.932,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="294.974,800.081,298.749,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="298.575,800.081,302.098,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">v</text>
+<text font="QYAAAA+DejaVuSans" bbox="302.176,800.081,305.819,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="305.777,800.081,307.434,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="306.978,800.081,310.249,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">c</text>
+<text font="QYAAAA+DejaVuSans" bbox="309.979,800.081,313.640,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="313.580,800.081,315.470,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="315.380,800.081,319.833,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="320.181,800.081,323.824,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="323.782,800.081,325.787,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="325.583,800.081,327.473,809.573" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="327.383,800.081,331.453,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">F</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="330.984,800.081,335.594,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">A</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="336.386,800.081,340.995,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">A</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="341.787,800.081,346.625,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">U</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="346.589,800.081,352.512,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">M</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="351.990,800.081,356.353,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">P</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="356.191,800.081,360.333,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">1</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="360.393,800.081,364.534,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">9</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="364.594,800.081,368.735,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="368.795,800.081,372.936,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="372.996,800.081,377.137,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">1</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="377.197,800.081,381.338,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">6</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="381.398,800.081,385.540,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">2</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="385.600,800.081,389.741,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">6</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="389.801,800.081,393.942,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">8</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="394.002,800.081,398.143,809.620" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">2</text>
+<text>
+</text>
+</textline>
+<textline bbox="293.174,791.679,397.939,801.171">
+<text font="QYAAAA+DejaVuSans" bbox="293.174,791.679,294.932,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="294.974,791.679,298.749,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="298.575,791.679,302.098,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">v</text>
+<text font="QYAAAA+DejaVuSans" bbox="302.176,791.679,305.819,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="305.777,791.679,307.434,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="306.978,791.679,310.249,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">c</text>
+<text font="QYAAAA+DejaVuSans" bbox="309.979,791.679,313.640,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="313.580,791.679,315.470,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="315.380,791.679,319.965,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">D</text>
+<text font="QYAAAA+DejaVuSans" bbox="320.181,791.679,323.830,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="323.782,791.679,326.117,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="326.183,791.679,329.844,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="329.784,791.679,331.789,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="331.585,791.679,333.475,801.171" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="333.385,791.679,337.172,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="336.986,791.679,340.773,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">6</text>
+<text font="QYAAAA+DejaVuSans" bbox="340.587,791.679,342.736,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="342.988,791.679,346.775,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="346.589,791.679,350.376,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="350.190,791.679,352.338,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="352.590,791.679,356.377,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="356.191,791.679,359.978,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="359.792,791.679,363.579,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="363.393,791.679,367.180,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">8</text>
+<text font="QYAAAA+DejaVuSans" bbox="366.994,791.679,368.885,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="368.795,791.679,370.685,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="370.595,791.679,374.382,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="374.196,791.679,377.983,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="377.797,791.679,379.802,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="379.598,791.679,383.385,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="383.199,791.679,386.986,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">7</text>
+<text font="QYAAAA+DejaVuSans" bbox="386.800,791.679,388.690,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="388.600,791.679,392.189,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">P</text>
+<text font="QYAAAA+DejaVuSans" bbox="392.802,791.679,397.939,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">M</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="421.009,791.679,501.618,809.573">
+<textline bbox="421.009,800.081,501.618,809.573">
+<text font="QYAAAA+DejaVuSans" bbox="421.009,800.081,425.625,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">G</text>
+<text font="QYAAAA+DejaVuSans" bbox="425.811,800.081,429.592,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="430.012,800.081,433.649,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="433.013,800.081,434.771,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="434.813,800.081,439.267,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="439.615,800.081,441.619,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="441.415,800.081,443.306,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="443.216,800.081,447.003,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="446.817,800.081,450.604,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">7</text>
+<text font="QYAAAA+DejaVuSans" bbox="450.418,800.081,454.505,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">B</text>
+<text font="QYAAAA+DejaVuSans" bbox="454.619,800.081,459.234,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">G</text>
+<text font="QYAAAA+DejaVuSans" bbox="459.420,800.081,463.057,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">Y</text>
+<text font="QYAAAA+DejaVuSans" bbox="463.621,800.081,467.210,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">P</text>
+<text font="QYAAAA+DejaVuSans" bbox="467.823,800.081,472.438,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">G</text>
+<text font="QYAAAA+DejaVuSans" bbox="472.624,800.081,476.411,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="476.225,800.081,480.012,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">8</text>
+<text font="QYAAAA+DejaVuSans" bbox="479.826,800.081,483.613,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="483.427,800.081,487.214,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">4</text>
+<text font="QYAAAA+DejaVuSans" bbox="487.028,800.081,490.455,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">F</text>
+<text font="QYAAAA+DejaVuSans" bbox="490.629,800.081,494.416,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="494.230,800.081,498.311,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">Z</text>
+<text font="QYAAAA+DejaVuSans" bbox="497.831,800.081,501.618,809.573" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">8</text>
+<text>
+</text>
+</textline>
+<textline bbox="421.009,791.679,477.851,801.171">
+<text font="QYAAAA+DejaVuSans" bbox="421.009,791.679,424.598,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">P</text>
+<text font="QYAAAA+DejaVuSans" bbox="425.211,791.679,429.286,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">A</text>
+<text font="QYAAAA+DejaVuSans" bbox="429.412,791.679,433.865,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="434.213,791.679,436.218,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="436.014,791.679,437.904,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="437.814,791.679,441.901,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">B</text>
+<text font="QYAAAA+DejaVuSans" bbox="442.015,791.679,446.631,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">G</text>
+<text font="QYAAAA+DejaVuSans" bbox="446.817,791.679,450.454,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">Y</text>
+<text font="QYAAAA+DejaVuSans" bbox="451.018,791.679,454.607,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">P</text>
+<text font="QYAAAA+DejaVuSans" bbox="455.219,791.679,459.834,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">G</text>
+<text font="QYAAAA+DejaVuSans" bbox="460.020,791.679,463.807,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="463.621,791.679,467.408,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">8</text>
+<text font="QYAAAA+DejaVuSans" bbox="467.222,791.679,471.009,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="470.823,791.679,474.610,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">4</text>
+<text font="QYAAAA+DejaVuSans" bbox="474.424,791.679,477.851,801.171" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.492">F</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="8" bbox="227.756,721.459,316.514,788.614">
+<textline bbox="227.756,779.075,290.257,788.614">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="227.756,779.075,232.041,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">S</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="231.957,779.075,236.194,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">h</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="236.158,779.075,238.198,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="237.958,779.075,242.220,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">p</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="242.160,779.075,246.421,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">p</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="246.361,779.075,248.401,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="248.161,779.075,252.398,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">n</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="252.362,779.075,256.624,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">g</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="256.564,779.075,258.634,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="258.364,779.075,262.973,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">A</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="263.766,779.075,268.705,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">D</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="268.567,779.075,273.506,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">D</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="273.368,779.075,277.954,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">R</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="278.170,779.075,282.239,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">E</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="281.771,779.075,286.056,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">S</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="285.972,779.075,290.257,788.614" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">S</text>
+<text>
+</text>
+</textline>
+<textline bbox="227.756,770.073,282.461,779.565">
+<text font="QYAAAA+DejaVuSans" bbox="227.756,770.073,232.341,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">D</text>
+<text font="QYAAAA+DejaVuSans" bbox="232.557,770.073,236.218,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="236.158,770.073,239.939,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">b</text>
+<text font="QYAAAA+DejaVuSans" bbox="239.759,770.073,243.408,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="243.360,770.073,246.463,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="246.361,770.073,250.136,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="249.962,770.073,251.618,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="251.162,770.073,254.265,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="254.163,770.073,257.938,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="257.764,770.073,259.654,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="259.564,770.073,264.702,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">M</text>
+<text font="QYAAAA+DejaVuSans" bbox="264.966,770.073,266.622,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="266.166,770.073,269.269,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="269.167,770.073,272.942,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="272.768,770.073,275.217,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="275.169,770.073,278.818,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="278.770,770.073,280.660,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="280.570,770.073,282.461,779.565" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="227.756,761.070,259.054,770.562">
+<text font="QYAAAA+DejaVuSans" bbox="227.756,761.070,229.514,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="229.556,761.070,233.193,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="232.557,761.070,236.320,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="236.758,761.070,240.893,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="240.959,761.070,242.850,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="242.760,761.070,246.847,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">B</text>
+<text font="QYAAAA+DejaVuSans" bbox="246.961,761.070,251.438,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">H</text>
+<text font="QYAAAA+DejaVuSans" bbox="251.762,761.070,253.653,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="253.563,761.070,257.350,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="257.164,761.070,259.054,770.562" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="227.756,752.068,260.255,761.560">
+<text font="QYAAAA+DejaVuSans" bbox="227.756,752.068,231.663,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">K</text>
+<text font="QYAAAA+DejaVuSans" bbox="231.957,752.068,235.732,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="235.558,752.068,239.207,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="239.159,752.068,242.934,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="242.760,752.068,246.541,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="246.361,752.068,250.010,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="249.962,752.068,253.743,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="253.563,752.068,255.219,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="254.763,752.068,257.212,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="257.164,752.068,258.820,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="258.364,752.068,260.255,761.560" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="227.756,743.065,296.865,752.557">
+<text font="QYAAAA+DejaVuSans" bbox="227.756,743.065,229.514,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="229.556,743.065,233.193,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="232.557,743.065,236.320,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="236.758,743.065,240.893,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="240.959,743.065,242.850,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="242.760,743.065,246.541,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="246.961,743.065,251.648,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">O</text>
+<text font="QYAAAA+DejaVuSans" bbox="251.762,743.065,255.837,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">A</text>
+<text font="QYAAAA+DejaVuSans" bbox="255.963,743.065,257.854,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="257.764,743.065,262.121,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">U</text>
+<text font="QYAAAA+DejaVuSans" bbox="262.565,743.065,267.019,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="267.367,743.065,269.125,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="269.167,743.065,273.242,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">V</text>
+<text font="QYAAAA+DejaVuSans" bbox="273.368,743.065,277.131,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="277.569,743.065,281.705,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="281.771,743.065,285.552,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="285.972,743.065,287.730,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="287.772,743.065,291.409,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="290.773,743.065,294.410,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">Y</text>
+<text font="QYAAAA+DejaVuSans" bbox="294.974,743.065,296.865,752.557" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="227.756,734.063,316.514,743.555">
+<text font="QYAAAA+DejaVuSans" bbox="227.756,734.063,231.843,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">B</text>
+<text font="QYAAAA+DejaVuSans" bbox="231.957,734.063,235.732,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="235.558,734.063,239.333,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="239.159,734.063,242.940,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">b</text>
+<text font="QYAAAA+DejaVuSans" bbox="242.760,734.063,246.409,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="246.361,734.063,250.136,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="249.962,734.063,253.623,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="253.563,734.063,256.666,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="256.564,734.063,261.431,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">w</text>
+<text font="QYAAAA+DejaVuSans" bbox="261.365,734.063,265.014,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="264.966,734.063,267.415,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="267.367,734.063,269.257,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="269.167,734.063,271.316,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="271.568,734.063,273.458,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="273.368,734.063,277.155,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">7</text>
+<text font="QYAAAA+DejaVuSans" bbox="276.969,734.063,280.756,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="280.570,734.063,284.357,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="284.171,734.063,287.958,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="287.772,734.063,291.559,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">3</text>
+<text font="QYAAAA+DejaVuSans" bbox="291.373,734.063,295.160,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="294.974,734.063,296.865,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="296.775,734.063,298.665,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="298.575,734.063,300.334,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="300.376,734.063,304.829,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="305.177,734.063,307.326,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="307.578,734.063,312.265,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">O</text>
+<text font="QYAAAA+DejaVuSans" bbox="312.379,734.063,316.514,743.555" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">R</text>
+<text>
+</text>
+</textline>
+<textline bbox="300.676,721.459,312.361,730.998">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="300.676,721.459,305.735,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">Q</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="305.477,721.459,308.322,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">t</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="308.478,721.459,312.361,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">y</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="9" bbox="222.954,721.459,261.401,730.998">
+<textline bbox="222.954,721.459,261.401,730.998">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="222.954,721.459,227.894,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">D</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="227.756,721.459,231.795,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="231.957,721.459,235.498,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">s</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="235.558,721.459,239.087,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">c</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="239.159,721.459,242.094,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="242.160,721.459,244.200,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="243.960,721.459,248.221,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">p</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="248.161,721.459,251.006,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">t</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="251.162,721.459,253.203,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="252.963,721.459,257.056,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="257.164,721.459,261.401,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">n</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="10" bbox="192.346,704.054,289.831,713.546">
+<textline bbox="192.346,704.054,289.831,713.546">
+<text font="QYAAAA+DejaVuSans" bbox="192.346,704.054,195.449,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="195.347,704.054,199.122,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="198.948,704.054,202.591,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="202.549,704.054,206.210,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="206.150,704.054,208.040,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="207.950,704.054,209.955,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">|</text>
+<text font="QYAAAA+DejaVuSans" bbox="209.751,704.054,211.641,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="211.551,704.054,216.028,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">H</text>
+<text font="QYAAAA+DejaVuSans" bbox="216.352,704.054,220.133,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="220.554,704.054,225.007,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="225.355,704.054,227.359,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="227.155,704.054,229.046,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="228.956,704.054,232.743,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">6</text>
+<text font="QYAAAA+DejaVuSans" bbox="232.557,704.054,236.344,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">4</text>
+<text font="QYAAAA+DejaVuSans" bbox="236.158,704.054,239.945,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="239.759,704.054,243.546,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">3</text>
+<text font="QYAAAA+DejaVuSans" bbox="243.360,704.054,247.009,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="246.961,704.054,250.610,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="250.562,704.054,254.211,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="254.163,704.054,257.944,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">b</text>
+<text font="QYAAAA+DejaVuSans" bbox="257.764,704.054,259.654,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="259.564,704.054,261.569,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">|</text>
+<text font="QYAAAA+DejaVuSans" bbox="261.365,704.054,263.255,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="263.165,704.054,264.924,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="264.966,704.054,269.581,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">G</text>
+<text font="QYAAAA+DejaVuSans" bbox="269.767,704.054,273.548,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="273.968,704.054,277.605,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="276.969,704.054,278.974,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="278.770,704.054,280.660,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="280.570,704.054,284.357,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="284.171,704.054,289.831,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">%</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="11" bbox="192.346,689.650,246.799,699.189">
+<textline bbox="192.346,689.650,246.799,699.189">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="192.346,689.650,196.631,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">S</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="196.547,689.650,200.784,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">h</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="200.748,689.650,202.789,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="202.549,689.650,206.810,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">p</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="206.750,689.650,211.011,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">p</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="210.951,689.650,212.991,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="212.751,689.650,216.989,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">n</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="216.953,689.650,221.214,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">g</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="221.154,689.650,223.224,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="222.954,689.650,227.323,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">C</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="227.155,689.650,231.393,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">h</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="231.357,689.650,235.372,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">a</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="235.558,689.650,238.493,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="238.559,689.650,242.820,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">g</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="242.760,689.650,246.799,699.189" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">e</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="12" bbox="304.877,704.054,308.664,713.546">
+<textline bbox="304.877,704.054,308.664,713.546">
+<text font="QYAAAA+DejaVuSans" bbox="304.877,704.054,308.664,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">1</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="13" bbox="304.877,689.650,308.664,699.142">
+<textline bbox="304.877,689.650,308.664,699.142">
+<text font="QYAAAA+DejaVuSans" bbox="304.877,689.650,308.664,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">1</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="14" bbox="386.200,735.546,460.933,789.214">
+<textline bbox="386.200,779.676,437.904,789.214">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="386.200,779.676,390.737,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">B</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="390.401,779.676,392.442,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="392.201,779.676,394.242,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">l</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="394.002,779.676,396.043,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">l</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="395.802,779.676,397.843,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="397.603,779.676,401.840,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">n</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="401.804,779.676,406.065,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">g</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="406.005,779.676,408.076,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="407.806,779.676,412.415,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">A</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="413.207,779.676,417.469,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">d</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="417.408,779.676,421.670,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">d</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="421.610,779.676,424.544,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="424.610,779.676,428.650,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="428.812,779.676,432.353,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">s</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="432.413,779.676,435.954,789.214" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="9.539">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="436.014,779.676,437.904,789.167" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="386.200,771.556,429.724,779.150">
+<text font="QYAAAA+DejaVuSans" bbox="386.200,771.556,389.868,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">D</text>
+<text font="QYAAAA+DejaVuSans" bbox="389.801,771.556,392.730,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="392.802,771.556,395.826,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">b</text>
+<text font="QYAAAA+DejaVuSans" bbox="395.802,771.556,398.722,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="398.803,771.556,401.286,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="401.204,771.556,404.224,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="404.205,771.556,405.530,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="405.405,771.556,407.887,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="407.806,771.556,410.826,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="410.807,771.556,412.319,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="412.607,771.556,416.717,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">M</text>
+<text font="QYAAAA+DejaVuSans" bbox="416.808,771.556,418.133,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="418.009,771.556,420.491,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="420.409,771.556,423.429,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="423.410,771.556,425.369,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="425.211,771.556,428.130,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="428.212,771.556,429.724,779.150" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="386.200,762.554,411.719,770.147">
+<text font="QYAAAA+DejaVuSans" bbox="386.200,762.554,387.607,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="387.400,762.554,390.310,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="390.401,762.554,393.411,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="393.402,762.554,396.710,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="397.003,762.554,398.515,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="398.803,762.554,402.073,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">B</text>
+<text font="QYAAAA+DejaVuSans" bbox="401.804,762.554,405.386,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">H</text>
+<text font="QYAAAA+DejaVuSans" bbox="405.405,762.554,406.918,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="407.206,762.554,410.235,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="410.206,762.554,411.719,770.147" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="386.200,753.551,412.919,761.145">
+<text font="QYAAAA+DejaVuSans" bbox="386.200,753.551,389.325,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">K</text>
+<text font="QYAAAA+DejaVuSans" bbox="389.201,753.551,392.221,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="392.201,753.551,395.121,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="395.202,753.551,398.222,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="398.203,753.551,401.228,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="401.204,753.551,404.123,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="404.205,753.551,407.230,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="407.206,753.551,408.531,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="408.406,753.551,410.365,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="410.206,753.551,411.532,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="411.407,753.551,412.919,761.145" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="386.200,744.549,439.927,752.142">
+<text font="QYAAAA+DejaVuSans" bbox="386.200,744.549,387.607,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="387.400,744.549,390.310,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="390.401,744.549,393.411,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="393.402,744.549,396.710,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="397.003,744.549,398.515,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="398.803,744.549,401.828,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="401.804,744.549,405.554,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">O</text>
+<text font="QYAAAA+DejaVuSans" bbox="405.405,744.549,408.665,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">A</text>
+<text font="QYAAAA+DejaVuSans" bbox="408.406,744.549,409.918,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="410.206,744.549,413.692,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">U</text>
+<text font="QYAAAA+DejaVuSans" bbox="413.807,744.549,417.370,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="417.408,744.549,418.815,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="418.609,744.549,421.869,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">V</text>
+<text font="QYAAAA+DejaVuSans" bbox="421.610,744.549,424.620,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="424.610,744.549,427.919,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="428.212,744.549,431.236,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="431.212,744.549,432.619,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="432.413,744.549,435.322,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="435.414,744.549,438.323,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">Y</text>
+<text font="QYAAAA+DejaVuSans" bbox="438.414,744.549,439.927,752.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="386.200,735.546,460.933,743.140">
+<text font="QYAAAA+DejaVuSans" bbox="386.200,735.546,389.469,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">B</text>
+<text font="QYAAAA+DejaVuSans" bbox="389.201,735.546,392.221,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="392.201,735.546,395.222,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="395.202,735.546,398.227,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">b</text>
+<text font="QYAAAA+DejaVuSans" bbox="398.203,735.546,401.122,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="401.204,735.546,404.224,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="404.205,735.546,407.134,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="407.206,735.546,409.688,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="409.606,735.546,413.500,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">w</text>
+<text font="QYAAAA+DejaVuSans" bbox="413.807,735.546,416.727,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="416.808,735.546,418.767,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="418.609,735.546,420.121,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="420.409,735.546,422.128,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="422.210,735.546,423.722,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="424.010,735.546,427.040,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">7</text>
+<text font="QYAAAA+DejaVuSans" bbox="427.011,735.546,430.041,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="430.012,735.546,433.042,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="433.013,735.546,436.042,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="436.014,735.546,439.043,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">3</text>
+<text font="QYAAAA+DejaVuSans" bbox="439.015,735.546,442.044,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="442.015,735.546,443.528,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="443.816,735.546,445.328,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="445.616,735.546,447.023,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="446.817,735.546,450.379,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="450.418,735.546,452.137,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="452.218,735.546,455.968,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">O</text>
+<text font="QYAAAA+DejaVuSans" bbox="455.819,735.546,459.127,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">R</text>
+<text font="QYAAAA+DejaVuSans" bbox="459.420,735.546,460.933,743.140" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="15" bbox="331.585,704.054,359.036,734.599">
+<textline bbox="334.885,725.060,356.161,734.599">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="334.885,725.060,339.771,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">G</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="339.687,725.060,342.622,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="342.688,725.060,346.781,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="346.889,725.060,350.430,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">s</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="350.490,725.060,354.031,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">s</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="354.091,725.060,356.161,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="331.585,717.858,359.036,727.397">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="331.585,717.858,336.194,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">A</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="336.986,717.858,343.192,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">m</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="343.588,717.858,347.681,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="347.789,717.858,352.026,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">u</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="351.990,717.858,356.227,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">n</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="356.191,717.858,359.036,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">t</text>
+<text>
+</text>
+</textline>
+<textline bbox="335.486,704.054,355.477,713.546">
+<text font="QYAAAA+DejaVuSans" bbox="335.486,704.054,339.273,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">4</text>
+<text font="QYAAAA+DejaVuSans" bbox="339.087,704.054,342.874,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">8</text>
+<text font="QYAAAA+DejaVuSans" bbox="342.688,704.054,346.475,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">9</text>
+<text font="QYAAAA+DejaVuSans" bbox="346.289,704.054,348.179,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="348.089,704.054,351.876,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="351.690,704.054,355.477,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="16" bbox="337.286,689.650,353.677,699.142">
+<textline bbox="337.286,689.650,353.677,699.142">
+<text font="QYAAAA+DejaVuSans" bbox="337.286,689.650,341.073,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="340.887,689.650,344.674,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="344.488,689.650,346.379,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="346.289,689.650,350.076,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="349.890,689.650,353.677,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="17" bbox="371.796,721.459,401.048,730.998">
+<textline bbox="371.796,721.459,401.048,730.998">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="371.796,721.459,376.735,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">D</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="376.597,721.459,378.638,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="378.398,721.459,381.939,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">s</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="381.999,721.459,385.528,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">c</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="385.600,721.459,389.693,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="389.801,721.459,394.038,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">u</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="394.002,721.459,398.239,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">n</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="398.203,721.459,401.048,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">t</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="18" bbox="378.998,704.054,394.188,713.546">
+<textline bbox="378.998,704.054,394.188,713.546">
+<text font="QYAAAA+DejaVuSans" bbox="378.998,704.054,381.146,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="381.398,704.054,385.186,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="384.999,704.054,386.890,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="386.800,704.054,390.587,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="390.401,704.054,394.188,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="19" bbox="384.699,689.650,388.486,699.142">
+<textline bbox="384.699,689.650,388.486,699.142">
+<text font="QYAAAA+DejaVuSans" bbox="384.699,689.650,388.486,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="20" bbox="413.207,704.054,442.285,734.599">
+<textline bbox="413.207,725.060,442.285,734.599">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="413.207,725.060,417.270,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">T</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="417.408,725.060,421.424,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">a</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="421.610,725.060,425.451,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">x</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="425.811,725.060,429.826,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">a</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="430.012,725.060,434.273,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">b</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="434.213,725.060,436.254,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">l</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="436.014,725.060,440.053,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="440.215,725.060,442.285,734.599" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="417.709,717.858,437.352,727.397">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="417.709,717.858,422.318,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">V</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="423.110,717.858,427.125,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">a</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="427.311,717.858,429.352,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">l</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="429.112,717.858,433.349,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">u</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="433.313,717.858,437.352,727.397" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">e</text>
+<text>
+</text>
+</textline>
+<textline bbox="417.709,704.054,437.700,713.546">
+<text font="QYAAAA+DejaVuSans" bbox="417.709,704.054,421.496,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">4</text>
+<text font="QYAAAA+DejaVuSans" bbox="421.310,704.054,425.097,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">8</text>
+<text font="QYAAAA+DejaVuSans" bbox="424.911,704.054,428.698,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">9</text>
+<text font="QYAAAA+DejaVuSans" bbox="428.512,704.054,430.402,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="430.312,704.054,434.099,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="433.913,704.054,437.700,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="21" bbox="419.509,689.650,435.900,699.142">
+<textline bbox="419.509,689.650,435.900,699.142">
+<text font="QYAAAA+DejaVuSans" bbox="419.509,689.650,423.296,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="423.110,689.650,426.897,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="426.711,689.650,428.602,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="428.512,689.650,432.299,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="432.113,689.650,435.900,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="22" bbox="471.724,721.459,486.590,730.998">
+<textline bbox="471.724,721.459,486.590,730.998">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="471.724,721.459,473.938,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">I</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="473.524,721.459,478.410,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">G</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="478.325,721.459,482.611,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">S</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="482.527,721.459,486.590,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">T</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="23" bbox="472.924,704.054,485.714,713.546">
+<textline bbox="472.924,704.054,485.714,713.546">
+<text font="QYAAAA+DejaVuSans" bbox="472.924,704.054,476.711,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="476.525,704.054,478.416,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="478.325,704.054,482.113,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="481.926,704.054,485.714,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="24" bbox="472.924,689.650,485.714,699.142">
+<textline bbox="472.924,689.650,485.714,699.142">
+<text font="QYAAAA+DejaVuSans" bbox="472.924,689.650,476.711,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="476.525,689.650,478.416,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="478.325,689.650,482.113,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="481.926,689.650,485.714,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="25" bbox="522.138,721.459,539.783,730.998">
+<textline bbox="522.138,721.459,539.783,730.998">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="522.138,721.459,526.201,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">T</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="526.339,721.459,530.432,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="530.540,721.459,533.385,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">t</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="533.541,721.459,537.556,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">a</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="537.742,721.459,539.783,730.998" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">l</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="26" bbox="520.937,704.054,540.929,713.546">
+<textline bbox="520.937,704.054,540.929,713.546">
+<text font="QYAAAA+DejaVuSans" bbox="520.937,704.054,524.724,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">4</text>
+<text font="QYAAAA+DejaVuSans" bbox="524.538,704.054,528.325,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">8</text>
+<text font="QYAAAA+DejaVuSans" bbox="528.139,704.054,531.926,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">9</text>
+<text font="QYAAAA+DejaVuSans" bbox="531.740,704.054,533.631,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="533.541,704.054,537.328,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="537.142,704.054,540.929,713.546" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="27" bbox="522.738,689.650,539.128,699.142">
+<textline bbox="522.738,689.650,539.128,699.142">
+<text font="QYAAAA+DejaVuSans" bbox="522.738,689.650,526.525,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="526.339,689.650,530.126,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="529.940,689.650,531.830,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="531.740,689.650,535.527,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="535.341,689.650,539.128,699.142" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">0</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="28" bbox="482.827,671.045,555.117,687.786">
+<textline bbox="482.827,678.247,555.117,687.786">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="482.827,678.247,486.890,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">T</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="487.028,678.247,492.087,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">O</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="491.829,678.247,495.892,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">T</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="496.030,678.247,500.640,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">A</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="501.432,678.247,505.225,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">L</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="505.033,678.247,507.104,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="506.833,678.247,511.197,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">P</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="511.035,678.247,515.620,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">R</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="515.836,678.247,518.051,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">I</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="517.636,678.247,522.006,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">C</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="521.838,678.247,525.907,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">E</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="525.439,678.247,527.821,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">:</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="527.839,678.247,529.910,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="529.640,678.247,533.781,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">5</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="533.841,678.247,537.982,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">4</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="538.042,678.247,542.183,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">1</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="542.243,678.247,544.506,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">.</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="544.644,678.247,548.785,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="548.845,678.247,552.986,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539">0</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="553.046,678.247,555.117,687.786" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.539"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="497.231,671.045,554.781,680.537">
+<text font="QYAAAA+DejaVuSans" bbox="497.231,671.045,501.306,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">A</text>
+<text font="QYAAAA+DejaVuSans" bbox="501.432,671.045,503.088,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="502.632,671.045,504.289,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="503.833,671.045,505.723,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="505.633,671.045,509.156,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">v</text>
+<text font="QYAAAA+DejaVuSans" bbox="509.234,671.045,512.883,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="512.835,671.045,514.492,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="514.035,671.045,517.810,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="517.636,671.045,521.297,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="521.237,671.045,524.340,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="524.238,671.045,526.129,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="526.039,671.045,529.688,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="529.640,671.045,532.088,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="532.040,671.045,535.701,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="535.641,671.045,537.532,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="537.442,671.045,539.098,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="538.642,671.045,542.417,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="542.243,671.045,544.134,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="544.044,671.045,545.802,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="545.844,671.045,550.298,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="550.646,671.045,554.781,680.537" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">R</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="29" bbox="37.503,640.120,260.477,665.756">
+<textline bbox="37.503,658.125,143.444,665.756">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="37.503,658.125,40.931,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">S</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="41.104,658.125,44.335,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="44.104,658.125,45.737,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">l</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="45.905,658.125,47.537,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">l</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="47.705,658.125,50.937,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="50.706,658.125,53.054,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="53.107,658.125,54.763,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="54.907,658.125,58.576,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">R</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="58.508,658.125,61.740,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="61.509,658.125,64.918,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">g</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="65.110,658.125,66.743,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="66.911,658.125,69.744,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">s</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="69.912,658.125,72.187,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">t</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="72.312,658.125,75.544,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="75.313,658.125,77.661,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="77.714,658.125,80.945,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="80.715,658.125,84.124,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">d</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="84.316,658.125,85.972,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631"> </text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="86.116,658.125,89.804,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">A</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="89.717,658.125,93.126,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">d</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="93.318,658.125,96.727,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">d</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="96.919,658.125,99.267,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="99.320,658.125,102.551,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="102.321,658.125,105.153,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">s</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="105.321,658.125,108.154,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">s</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="108.322,658.125,110.228,665.756" colourspace="DeviceRGB" ncolour="[0.270588235, 0.274509803, 0.282352941]" size="7.631">:</text>
+<text font="QYAAAA+DejaVuSans" bbox="110.123,658.125,111.635,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="111.923,658.125,114.948,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="114.924,658.125,117.944,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="117.925,658.125,120.839,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="120.926,658.125,123.855,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="123.927,658.125,126.409,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="126.327,658.125,129.890,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="129.928,658.125,132.848,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="132.929,658.125,134.797,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="134.730,658.125,136.055,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="135.930,658.125,138.844,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="138.931,658.125,141.951,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="141.932,658.125,143.444,665.718" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="37.503,652.123,260.477,659.716">
+<text font="QYAAAA+DejaVuSans" bbox="37.503,652.123,40.523,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="40.503,652.123,42.222,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="42.304,652.123,45.333,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">5</text>
+<text font="QYAAAA+DejaVuSans" bbox="45.305,652.123,48.334,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">2</text>
+<text font="QYAAAA+DejaVuSans" bbox="48.306,652.123,49.818,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="50.106,652.123,53.131,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="53.107,652.123,55.066,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="54.907,652.123,57.822,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="57.908,652.123,60.928,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="60.909,652.123,63.929,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="63.910,652.123,66.935,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="66.911,652.123,68.423,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="68.711,652.123,70.387,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">f</text>
+<text font="QYAAAA+DejaVuSans" bbox="70.512,652.123,71.837,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="71.712,652.123,74.626,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="74.713,652.123,77.627,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="77.714,652.123,79.673,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="79.514,652.123,81.027,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="81.315,652.123,82.827,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="83.115,652.123,84.628,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="84.916,652.123,88.810,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">w</text>
+<text font="QYAAAA+DejaVuSans" bbox="89.117,652.123,92.046,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="92.118,652.123,94.600,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="94.518,652.123,96.386,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="96.319,652.123,97.831,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="98.119,652.123,99.445,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">j</text>
+<text font="QYAAAA+DejaVuSans" bbox="99.320,652.123,102.138,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">y</text>
+<text font="QYAAAA+DejaVuSans" bbox="102.321,652.123,105.235,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="105.321,652.123,107.189,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="107.122,652.123,108.447,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="108.322,652.123,109.835,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="110.123,652.123,113.143,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="113.124,652.123,116.043,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="116.124,652.123,119.149,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="119.125,652.123,122.044,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="122.126,652.123,124.085,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="123.927,652.123,125.439,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="125.727,652.123,127.240,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="127.528,652.123,129.040,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="129.328,652.123,131.810,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="131.729,652.123,134.749,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="134.730,652.123,137.649,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="137.730,652.123,140.751,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="140.731,652.123,143.756,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="143.732,652.123,146.651,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="146.733,652.123,148.692,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="148.533,652.123,151.453,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="151.534,652.123,153.047,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="153.335,652.123,154.847,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="155.135,652.123,156.648,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="156.936,652.123,159.961,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="159.937,652.123,162.865,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="162.938,652.123,164.263,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="164.138,652.123,167.158,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="167.139,652.123,168.464,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="168.339,652.123,170.058,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="170.140,652.123,173.169,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="173.140,652.123,176.170,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="176.141,652.123,179.171,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="179.142,652.123,182.172,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="182.143,652.123,185.173,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">9</text>
+<text font="QYAAAA+DejaVuSans" bbox="185.144,652.123,188.173,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">4</text>
+<text font="QYAAAA+DejaVuSans" bbox="188.145,652.123,189.657,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="189.945,652.123,191.457,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="191.746,652.123,194.770,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="194.746,652.123,197.675,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="197.747,652.123,199.072,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="198.948,652.123,201.968,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="201.948,652.123,203.274,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="203.149,652.123,204.661,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">,</text>
+<text font="QYAAAA+DejaVuSans" bbox="204.949,652.123,206.462,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="206.750,652.123,210.312,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="210.351,652.123,213.361,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="213.352,652.123,218.062,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">W</text>
+<text font="QYAAAA+DejaVuSans" bbox="218.153,652.123,219.665,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="219.953,652.123,223.622,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">D</text>
+<text font="QYAAAA+DejaVuSans" bbox="223.554,652.123,226.565,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="226.555,652.123,229.210,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">L</text>
+<text font="QYAAAA+DejaVuSans" bbox="228.956,652.123,232.538,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">H</text>
+<text font="QYAAAA+DejaVuSans" bbox="232.557,652.123,233.964,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">I</text>
+<text font="QYAAAA+DejaVuSans" bbox="233.757,652.123,235.270,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="235.558,652.123,237.277,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">-</text>
+<text font="QYAAAA+DejaVuSans" bbox="237.358,652.123,238.871,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="239.159,652.123,242.188,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="242.160,652.123,245.189,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">1</text>
+<text font="QYAAAA+DejaVuSans" bbox="245.160,652.123,248.190,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="248.161,652.123,251.191,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">0</text>
+<text font="QYAAAA+DejaVuSans" bbox="251.162,652.123,254.192,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">9</text>
+<text font="QYAAAA+DejaVuSans" bbox="254.163,652.123,257.193,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">4</text>
+<text font="QYAAAA+DejaVuSans" bbox="257.164,652.123,258.676,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="258.964,652.123,260.477,659.716" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="37.503,646.121,70.968,653.752">
+<text font="QTAAAA+DejaVuSans-Bold" bbox="37.503,646.121,41.454,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">D</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="41.704,646.121,44.935,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">e</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="44.705,646.121,47.528,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">c</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="47.705,646.121,49.338,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">l</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="49.506,646.121,52.718,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">a</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="52.507,646.121,54.855,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">r</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="54.907,646.121,58.119,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">a</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="57.908,646.121,60.184,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">t</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="60.309,646.121,61.941,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">i</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="62.109,646.121,65.384,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">o</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="65.710,646.121,69.100,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631">n</text>
+<text font="QTAAAA+DejaVuSans-Bold" bbox="69.311,646.121,70.968,653.752" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.631"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="37.503,640.120,216.664,647.713">
+<text font="QYAAAA+DejaVuSans" bbox="37.503,640.120,40.412,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="40.503,640.120,43.523,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="43.504,640.120,46.433,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="46.505,640.120,48.017,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="48.306,640.120,51.330,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="51.306,640.120,54.221,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="54.307,640.120,57.222,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="57.308,640.120,60.333,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="60.309,640.120,62.791,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="62.710,640.120,64.222,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="64.510,640.120,66.992,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="66.911,640.120,69.825,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="69.912,640.120,71.237,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="71.112,640.120,74.137,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="74.113,640.120,75.625,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="75.913,640.120,78.832,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="78.914,640.120,80.873,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="80.715,640.120,83.643,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="83.715,640.120,85.228,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="85.516,640.120,86.841,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="86.716,640.120,89.736,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="89.717,640.120,91.585,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="91.518,640.120,94.446,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="94.518,640.120,97.538,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="97.519,640.120,100.544,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="100.520,640.120,103.449,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="103.521,640.120,106.546,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="106.522,640.120,108.034,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="108.322,640.120,109.998,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">f</text>
+<text font="QYAAAA+DejaVuSans" bbox="110.123,640.120,113.037,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="113.124,640.120,115.083,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="114.924,640.120,116.437,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="116.725,640.120,119.653,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="119.725,640.120,122.745,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="122.726,640.120,125.751,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="125.727,640.120,127.240,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="127.528,640.120,130.548,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="130.528,640.120,133.011,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="132.929,640.120,135.858,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="135.930,640.120,137.889,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="137.730,640.120,139.243,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="139.531,640.120,142.148,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">c</text>
+<text font="QYAAAA+DejaVuSans" bbox="141.932,640.120,144.846,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="144.932,640.120,147.953,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="147.933,640.120,150.416,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="150.334,640.120,153.354,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="153.335,640.120,157.973,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">m</text>
+<text font="QYAAAA+DejaVuSans" bbox="158.136,640.120,161.161,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">p</text>
+<text font="QYAAAA+DejaVuSans" bbox="161.137,640.120,163.005,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="162.938,640.120,164.263,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="164.138,640.120,167.052,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="167.139,640.120,170.159,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="170.140,640.120,171.652,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="171.940,640.120,174.859,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="174.941,640.120,177.961,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="177.942,640.120,180.967,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="180.943,640.120,182.455,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="182.743,640.120,185.763,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="185.744,640.120,188.658,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="188.745,640.120,190.612,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="190.545,640.120,192.058,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="192.346,640.120,194.021,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">f</text>
+<text font="QYAAAA+DejaVuSans" bbox="194.146,640.120,197.061,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="197.147,640.120,199.106,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="198.948,640.120,200.460,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="200.748,640.120,202.707,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="202.549,640.120,205.477,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="205.549,640.120,208.032,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="207.950,640.120,210.869,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="210.951,640.120,212.276,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">l</text>
+<text font="QYAAAA+DejaVuSans" bbox="212.151,640.120,215.080,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="215.152,640.120,216.664,647.713" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="7.594">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="30" bbox="37.503,574.560,62.611,583.103">
+<textline bbox="37.503,574.560,62.611,583.103">
+<text font="QYAAAA+DejaVuSans" bbox="37.503,574.560,40.889,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="41.104,574.560,42.805,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="42.904,574.560,44.605,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="44.705,574.560,48.885,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543">&amp;</text>
+<text font="QYAAAA+DejaVuSans" bbox="49.506,574.560,51.207,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="51.306,574.560,55.525,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543">O</text>
+<text font="QYAAAA+DejaVuSans" bbox="55.508,574.560,57.209,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543">.</text>
+<text font="QYAAAA+DejaVuSans" bbox="57.308,574.560,60.695,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543">E</text>
+<text font="QYAAAA+DejaVuSans" bbox="60.909,574.560,62.611,583.103" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="31" bbox="374.797,572.935,440.716,584.325">
+<textline bbox="374.797,572.935,440.716,584.325">
+<text font="QYAAAA+DejaVuSans" bbox="374.797,572.935,380.421,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">O</text>
+<text font="QYAAAA+DejaVuSans" bbox="380.198,572.935,383.137,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="383.199,572.935,387.736,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="388.000,572.935,392.394,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="392.802,572.935,395.740,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="395.802,572.935,400.196,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="400.604,572.935,405.141,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="405.405,572.935,407.674,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="407.806,572.935,412.170,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">T</text>
+<text font="QYAAAA+DejaVuSans" bbox="412.007,572.935,416.537,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="416.808,572.935,419.747,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="419.809,572.935,424.181,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="424.610,572.935,429.141,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="429.412,572.935,433.949,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="434.213,572.935,438.743,584.325" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="11.390">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="439.015,573.359,440.716,581.902" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="8.543"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="32" bbox="496.030,550.412,557.308,568.536">
+<textline bbox="496.030,555.247,551.492,568.536">
+<text font="QYAAAA+DejaVuSans" bbox="496.030,555.247,501.324,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="501.432,555.247,506.717,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="506.833,555.247,511.934,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="512.235,555.247,517.360,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="517.636,555.247,521.980,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">s</text>
+<text font="QYAAAA+DejaVuSans" bbox="522.438,555.247,528.672,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">N</text>
+<text font="QYAAAA+DejaVuSans" bbox="528.439,555.247,533.548,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="533.241,555.247,536.509,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="536.242,555.247,538.561,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="538.042,555.247,543.142,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="543.444,555.247,548.729,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="548.845,555.247,551.492,568.536" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="13.289"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="496.030,550.412,557.308,559.903">
+<text font="QYAAAA+DejaVuSans" bbox="496.030,550.412,500.106,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">A</text>
+<text font="QYAAAA+DejaVuSans" bbox="500.232,550.412,504.007,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="503.833,550.412,506.167,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="506.233,550.412,510.008,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">h</text>
+<text font="QYAAAA+DejaVuSans" bbox="509.834,550.412,513.477,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">o</text>
+<text font="QYAAAA+DejaVuSans" bbox="513.435,550.412,515.884,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="515.836,550.412,517.492,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="517.036,550.412,520.163,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">z</text>
+<text font="QYAAAA+DejaVuSans" bbox="520.037,550.412,523.698,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text font="QYAAAA+DejaVuSans" bbox="523.638,550.412,527.419,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">d</text>
+<text font="QYAAAA+DejaVuSans" bbox="527.239,550.412,529.130,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492"> </text>
+<text font="QYAAAA+DejaVuSans" bbox="529.040,550.412,532.821,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">S</text>
+<text font="QYAAAA+DejaVuSans" bbox="533.241,550.412,534.897,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">i</text>
+<text font="QYAAAA+DejaVuSans" bbox="534.441,550.412,538.222,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">g</text>
+<text font="QYAAAA+DejaVuSans" bbox="538.042,550.412,541.817,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">n</text>
+<text font="QYAAAA+DejaVuSans" bbox="541.643,550.412,545.292,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">a</text>
+<text font="QYAAAA+DejaVuSans" bbox="545.244,550.412,547.579,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">t</text>
+<text font="QYAAAA+DejaVuSans" bbox="547.645,550.412,551.420,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">u</text>
+<text font="QYAAAA+DejaVuSans" bbox="551.246,550.412,553.695,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">r</text>
+<text font="QYAAAA+DejaVuSans" bbox="553.646,550.412,557.308,559.903" colourspace="DeviceRGB" ncolour="[0, 0, 0]" size="9.492">e</text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="161.737,799.096,162.938,807.498" />
+<rect linewidth="0" bbox="289.573,790.694,290.773,807.498" />
+<rect linewidth="0" bbox="417.408,790.694,418.609,807.498" />
+<rect linewidth="0" bbox="37.503,788.293,557.247,789.493" />
+<rect linewidth="0" bbox="37.503,716.273,38.103,733.078" />
+<rect linewidth="0" bbox="37.503,698.268,38.103,716.873" />
+<rect linewidth="0" bbox="37.503,686.865,38.103,698.268" />
+<rect linewidth="0" bbox="37.503,668.259,38.103,687.465" />
+<rect linewidth="0" bbox="37.503,686.865,190.545,687.465" />
+<rect linewidth="0" bbox="190.545,686.865,293.774,687.465" />
+<rect linewidth="0" bbox="293.774,686.865,319.581,687.465" />
+<rect linewidth="0" bbox="319.581,686.865,371.196,687.465" />
+<rect linewidth="0" bbox="371.196,686.865,401.804,687.465" />
+<rect linewidth="0" bbox="401.804,686.865,453.419,687.465" />
+<rect linewidth="0" bbox="453.419,686.865,505.033,687.465" />
+<rect linewidth="0" bbox="505.033,686.865,557.247,687.465" />
+<rect linewidth="0" bbox="37.503,686.865,190.545,687.465" />
+<rect linewidth="0" bbox="37.503,668.259,190.545,668.860" />
+<rect linewidth="0" bbox="190.545,686.865,556.647,687.465" />
+<rect linewidth="0" bbox="190.545,668.259,556.647,668.860" />
+<rect linewidth="0" bbox="37.503,732.477,190.545,733.078" />
+<rect linewidth="0" bbox="37.503,716.273,190.545,716.873" />
+<rect linewidth="0" bbox="190.545,732.477,293.774,733.078" />
+<rect linewidth="0" bbox="190.545,716.273,293.774,716.873" />
+<rect linewidth="0" bbox="293.774,732.477,319.581,733.078" />
+<rect linewidth="0" bbox="293.774,716.273,319.581,716.873" />
+<rect linewidth="0" bbox="319.581,732.477,371.196,733.078" />
+<rect linewidth="0" bbox="319.581,716.273,371.196,716.873" />
+<rect linewidth="0" bbox="371.196,732.477,401.804,733.078" />
+<rect linewidth="0" bbox="371.196,716.273,401.804,716.873" />
+<rect linewidth="0" bbox="401.804,732.477,453.419,733.078" />
+<rect linewidth="0" bbox="401.804,716.273,453.419,716.873" />
+<rect linewidth="0" bbox="453.419,732.477,505.033,733.078" />
+<rect linewidth="0" bbox="453.419,716.273,505.033,716.873" />
+<rect linewidth="0" bbox="505.033,732.477,557.247,733.078" />
+<rect linewidth="0" bbox="505.033,716.273,557.247,716.873" />
+<rect linewidth="0" bbox="556.647,716.273,557.247,733.078" />
+<rect linewidth="0" bbox="37.503,716.273,190.545,716.873" />
+<rect linewidth="0" bbox="190.545,716.273,293.774,716.873" />
+<rect linewidth="0" bbox="293.774,716.273,319.581,716.873" />
+<rect linewidth="0" bbox="319.581,716.273,371.196,716.873" />
+<rect linewidth="0" bbox="371.196,716.273,401.804,716.873" />
+<rect linewidth="0" bbox="401.804,716.273,453.419,716.873" />
+<rect linewidth="0" bbox="453.419,716.273,505.033,716.873" />
+<rect linewidth="0" bbox="505.033,716.273,557.247,716.873" />
+<rect linewidth="0" bbox="556.647,698.268,557.247,716.873" />
+<rect linewidth="0" bbox="556.647,686.865,557.247,698.268" />
+<rect linewidth="0" bbox="501.432,633.450,557.247,634.650" />
+<rect linewidth="0" bbox="501.432,580.635,557.247,581.835" />
+<rect linewidth="0" bbox="501.432,580.635,502.632,634.650" />
+<rect linewidth="0" bbox="556.047,580.635,557.247,634.650" />
+<figure name="Im8" bbox="506.233,595.039,553.646,631.049">
+<image width="47" height="36" />
+</figure>
+<figure name="Im12" bbox="43.504,559.629,90.917,570.432">
+<image width="47" height="10" />
+</figure>
+<layout>
+<textgroup bbox="37.503,550.412,557.308,811.669">
+<textgroup bbox="37.503,671.045,555.117,811.669">
+<textgroup bbox="37.503,674.646,174.545,811.669">
+<textgroup bbox="37.503,744.549,119.437,811.669">
+<textbox id="0" bbox="37.503,798.315,90.571,811.669" />
+<textbox id="1" bbox="37.503,744.549,119.437,789.214" />
+</textgroup>
+<textgroup bbox="39.903,674.646,174.545,730.998">
+<textgroup bbox="39.903,700.453,174.545,730.998">
+<textbox id="2" bbox="101.120,721.459,127.372,730.998" />
+<textbox id="3" bbox="39.903,700.453,174.545,717.147" />
+</textgroup>
+<textbox id="4" bbox="39.903,674.646,85.456,684.185" />
+</textgroup>
+</textgroup>
+<textgroup bbox="165.338,671.045,555.117,809.620">
+<textgroup bbox="165.338,791.679,501.618,809.620">
+<textgroup bbox="165.338,791.679,398.143,809.620">
+<textbox id="5" bbox="165.338,791.679,280.240,809.620" />
+<textbox id="6" bbox="293.174,791.679,398.143,809.620" />
+</textgroup>
+<textbox id="7" bbox="421.009,791.679,501.618,809.573" />
+</textgroup>
+<textgroup bbox="192.346,671.045,555.117,789.214">
+<textgroup bbox="192.346,689.650,316.514,788.614">
+<textgroup bbox="222.954,721.459,316.514,788.614">
+<textbox id="8" bbox="227.756,721.459,316.514,788.614" />
+<textbox id="9" bbox="222.954,721.459,261.401,730.998" />
+</textgroup>
+<textgroup bbox="192.346,689.650,308.664,713.546">
+<textgroup bbox="192.346,689.650,289.831,713.546">
+<textbox id="10" bbox="192.346,704.054,289.831,713.546" />
+<textbox id="11" bbox="192.346,689.650,246.799,699.189" />
+</textgroup>
+<textgroup bbox="304.877,689.650,308.664,713.546">
+<textbox id="12" bbox="304.877,704.054,308.664,713.546" />
+<textbox id="13" bbox="304.877,689.650,308.664,699.142" />
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="331.585,671.045,555.117,789.214">
+<textbox id="14" bbox="386.200,735.546,460.933,789.214" />
+<textgroup bbox="331.585,671.045,555.117,734.599">
+<textgroup bbox="331.585,689.650,540.929,734.599">
+<textgroup bbox="331.585,689.650,486.590,734.599">
+<textgroup bbox="331.585,689.650,442.285,734.599">
+<textgroup bbox="331.585,689.650,359.036,734.599">
+<textbox id="15" bbox="331.585,704.054,359.036,734.599" />
+<textbox id="16" bbox="337.286,689.650,353.677,699.142" />
+</textgroup>
+<textgroup bbox="371.796,689.650,442.285,734.599">
+<textgroup bbox="371.796,689.650,401.048,730.998">
+<textbox id="17" bbox="371.796,721.459,401.048,730.998" />
+<textgroup bbox="378.998,689.650,394.188,713.546">
+<textbox id="18" bbox="378.998,704.054,394.188,713.546" />
+<textbox id="19" bbox="384.699,689.650,388.486,699.142" />
+</textgroup>
+</textgroup>
+<textgroup bbox="413.207,689.650,442.285,734.599">
+<textbox id="20" bbox="413.207,704.054,442.285,734.599" />
+<textbox id="21" bbox="419.509,689.650,435.900,699.142" />
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="471.724,689.650,486.590,730.998">
+<textbox id="22" bbox="471.724,721.459,486.590,730.998" />
+<textgroup bbox="472.924,689.650,485.714,713.546">
+<textbox id="23" bbox="472.924,704.054,485.714,713.546" />
+<textbox id="24" bbox="472.924,689.650,485.714,699.142" />
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="520.937,689.650,540.929,730.998">
+<textbox id="25" bbox="522.138,721.459,539.783,730.998" />
+<textgroup bbox="520.937,689.650,540.929,713.546">
+<textbox id="26" bbox="520.937,704.054,540.929,713.546" />
+<textbox id="27" bbox="522.738,689.650,539.128,699.142" />
+</textgroup>
+</textgroup>
+</textgroup>
+<textbox id="28" bbox="482.827,671.045,555.117,687.786" />
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="37.503,550.412,557.308,665.756">
+<textbox id="29" bbox="37.503,640.120,260.477,665.756" />
+<textgroup bbox="37.503,550.412,557.308,584.325">
+<textgroup bbox="37.503,572.935,440.716,584.325">
+<textbox id="30" bbox="37.503,574.560,62.611,583.103" />
+<textbox id="31" bbox="374.797,572.935,440.716,584.325" />
+</textgroup>
+<textbox id="32" bbox="496.030,550.412,557.308,568.536" />
+</textgroup>
+</textgroup>
+</textgroup>
+</layout>
+</page>
+</pages>
