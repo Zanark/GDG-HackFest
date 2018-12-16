@@ -76,6 +76,7 @@
             console.log(pdf);
         });
     </script>
-    <script>PDFObject.embed("../feedPDF/pdf/example.pdf", "#pdf-viewer");</script>
+    {% load staticfiles %}
+    <script>PDFObject.embed("{% static 'pdf/example.pdf' %}", "#pdf-viewer");</script>
 </body>
 </html>
