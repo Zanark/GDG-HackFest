@@ -15,7 +15,8 @@
     <!-- pdfobject -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.js"></script>
 
-    <link rel="stylesheet" href="../static/css/style.css">
+    {% load staticfiles %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
     
 </head>
 <body>
@@ -41,27 +42,29 @@
             <!-- footer -->
             <div class="row footer">
                 <div class="col-sm-11"></div>
+                <form action="/feedData/" method="POST">
+                    {% csrf_token %}
+                <input type="text" name="pdf-name" id="pdf-name" value ="" hidden>
                 <div class="col-sm-1"><button class="btn btn-lg btn-success">Feed</button></div>
+                </form>
             </div>
         </div>
     </main>
     <script>
         var pdf = null;
         $("#select-file").click(function() {
-            pdf = String(pdf = $("#selected-pdf").val()).replace("C:\\fakepath\\","../feedPDF/pdf/");
+            pdf = String(pdf = $("#selected-pdf").val()).replace("C:\\fakepath\\","../static/pdf/");
+            console.log(pdf);
             if (pdf.length>4 && pdf.substr(pdf.length-4, pdf.length)==".pdf") {
                 PDFObject.embed(pdf, "#pdf-viewer");
+                $("#pdf-name").attr("value", pdf);
             }
             else {
                 alert("Please select a Pdf of bill");
             }
         });
     </script>
-<<<<<<< HEAD:venv--Py3.6/feedPDF/templates/index.html
-    <script>PDFObject.embed("", "#pdf-viewer");</script>
-=======
     {% load staticfiles %}
     <script>PDFObject.embed("{% static 'pdf/example.pdf' %}", "#pdf-viewer");</script>
->>>>>>> upstream/v2:venv--Py3.6/GDG-Project/templates/index.html
 </body>
 </html>
