@@ -69,13 +69,16 @@
     </main>
     <script>
         var pdf = null;
-        $("#select-file").click(function(){
-            pdf = $("#selected-pdf").val();
-            PDFObject.embed(pdf, "#pdf-viewer");
-            
-            console.log(pdf);
+        $("#select-file").click(function() {
+            pdf = String(pdf = $("#selected-pdf").val()).replace("C:\\fakepath\\","../feedPDF/pdf/");
+            if (pdf.length>4 && pdf.substr(pdf.length-4, pdf.length)==".pdf") {
+                PDFObject.embed(pdf, "#pdf-viewer");
+            }
+            else {
+                alert("Please select a Pdf of bill");
+            }
         });
     </script>
-    <script>PDFObject.embed("../feedPDF/pdf/example.pdf", "#pdf-viewer");</script>
+    <script>PDFObject.embed("", "#pdf-viewer");</script>
 </body>
 </html>
