@@ -15,30 +15,8 @@
     <!-- pdfobject -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.js"></script>
 
-    <style>
-        * {
-            background-color: #404040;
-            color: #fff;
-        }
-        .footer {
-            width: 100%;
-            bottom: 00%;
-            margin: 1em;
-            position: fixed;
-        }
-        .container-fl {
-            margin: 1em;
-        }
-        #pdf-viewer {
-            height: 90%;
-            width: 80%;
-            position: fixed;
-        }
-        #select-file {
-            margin: 0.5em;
-            margin-left: 0em;
-        }
-    </style>
+    <link rel="stylesheet" href="../static/css/style.css">
+    
 </head>
 <body>
     <main>
@@ -69,14 +47,21 @@
     </main>
     <script>
         var pdf = null;
-        $("#select-file").click(function(){
-            pdf = $("#selected-pdf").val();
-            PDFObject.embed(pdf, "#pdf-viewer");
-            
-            console.log(pdf);
+        $("#select-file").click(function() {
+            pdf = String(pdf = $("#selected-pdf").val()).replace("C:\\fakepath\\","../feedPDF/pdf/");
+            if (pdf.length>4 && pdf.substr(pdf.length-4, pdf.length)==".pdf") {
+                PDFObject.embed(pdf, "#pdf-viewer");
+            }
+            else {
+                alert("Please select a Pdf of bill");
+            }
         });
     </script>
+<<<<<<< HEAD:venv--Py3.6/feedPDF/templates/index.html
+    <script>PDFObject.embed("", "#pdf-viewer");</script>
+=======
     {% load staticfiles %}
     <script>PDFObject.embed("{% static 'pdf/example.pdf' %}", "#pdf-viewer");</script>
+>>>>>>> upstream/v2:venv--Py3.6/GDG-Project/templates/index.html
 </body>
 </html>
